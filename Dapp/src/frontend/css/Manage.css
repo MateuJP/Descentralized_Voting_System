@@ -1,0 +1,36 @@
+.title.managment{
+    font-weight: bold;
+    color: black;
+    text-decoration: underline;
+
+}
+.contaienr-cards{
+    display: flex;
+    width: auto;
+    height: auto;
+    padding: 1rem;
+    justify-content: center;
+    margin-top: -2rem;
+}
+.card{
+    margin: 5rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.125);
+}
+.container-content{
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+.content{
+    display: grid;
+    padding: 0.5rem;
+}
+.content label{
+    color: black;
+    font-weight: bold;
+
+}

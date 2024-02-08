@@ -1,0 +1,6 @@
+.link-buttons[disabled]{
+    color: black;
+    font-weight: bold;
+    cursor: not-allowed;
+    
+}

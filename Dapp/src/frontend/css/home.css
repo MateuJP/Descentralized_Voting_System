@@ -1,0 +1,59 @@
+.container.votation{
+    display: flex;
+    justify-content: center;
+    height: auto;
+
+}
+#accordionExample{
+    width: 55%;
+    height: auto;
+    margin-top: 5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.125);
+    border-top: 1px solid rgba(0, 0, 0, 0.125);
+    border-left: 1px solid rgba(0, 0, 0, 0.125);
+    border-right: 1px solid rgba(0, 0, 0, 0.125);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.3rem;
+}
+.accordion-item{
+    border: none;
+    border-bottom: none;
+}
+#inputPay{
+    padding: 1px;
+    margin-left: 1.2rem;
+    margin-right: 1rem;
+    width: auto;
+}
+.button-vote{
+    margin-bottom: 2rem;
+}
+.button-vote button{
+    width: 10rem;
+}
+
+/* Estilos para las barras de progreso */
+.progress-container {
+    margin: 20px 0;
+  }
+ 
+  
+  .progress-bar {
+    height: 30px;
+    background-color: #007BFF;
+    text-align: center;
+    line-height: 30px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  /* Estilos para el mensaje de finalización */
+  .finish-message {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #FF5733; /* Color de fuente rojo */
+    font-weight: bold;
+  }
+  
+  
